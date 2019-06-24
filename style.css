@@ -133,6 +133,15 @@ h3~p {
     margin-top: 0;
 }
 
+ol li {
+    margin: 8px 0; 
+    padding-left: 15px; 
+}
+
+ol li a {
+    color: rgb(59, 59, 236); 
+}
+
 /*--------------------Education-------------------*/
 .education {
     background: linear-gradient(rgba(141, 153, 174, 0.9), rgba(141, 153, 174, 0.7)),
